@@ -1,25 +1,15 @@
-Martyr2’s Mega Project List
-========
+# Project Ideas
 
 Trying to complete all projects from [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
 
-**Note**: If you fork this repo to solve these projects in any language of your choice, please remove all my code, and start from scratch; you'll benefit a lot. Do ***not*** send pull requests.
-
-Some details:
-
-* I will use Python to solve these. Why? Because I want to learn the language quickly.
-* I have no interest in making games, so I'm excluding those from the list below.
-* I'm not interested in networking, so I *might* skip all (or some) of them.
-* The projects will not be made in the order posted.
-* I may not be able to complete all of them. 
-* My method of solving them may not be the best.
+I'll solve these projects in whatever language I want to learn. The projects will not be made in the order posted.
+* I may not be able to complete all of them.My method of solving them may not be the best.
 
 I will link to each project that I complete. Some will be in this same repo, some bigger ones will have dedicated repos.
 
 ==============================
 
-Numbers
----------
+## Numbers
 
 **Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
@@ -51,8 +41,7 @@ Numbers
 
 **Dijkstra’s Algorithm** – Create a program that finds the shortest path through a graph using its edges.
 
-Text
----------
+## Text
 
 **Reverse a String** – Enter a string and the program will reverse it and print it out.
 
@@ -88,8 +77,7 @@ Text
 
 **Regex Query Tool** – A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular exp****ression against the source text and return any matches or flag errors in the regular exp****ression.
 
-Networking
----------
+## Networking
 
 **FTP Program** – A file transfer program which can transfer files back and forth from a remote web sever.
 
@@ -121,8 +109,7 @@ Networking
 
 **Web Bot** – An automated program which carries out tasks on the web including checking websites, page scraping, and summarization of data or web posting.
 
-Classes
----------
+## Classes
 
 **Product Inventory Project** – Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an inventory class which keeps track of various products and can sum up the inventory value.
 
@@ -158,8 +145,7 @@ Classes
 
 **Family Tree Creator** – Create a class called “Person” which will have a name, when they were born and when (and if) they died. Allow the user to create these Person classes and put them into a family tree structure. Print out the tree to the screen.
 
-Threading
----------
+## Threading
 
 **Create A Progress Bar for Downloads** – Create a progress bar for applications that can keep track of a download in progress. The progress bar will be on a separate thread and will communicate with the main thread using delegates.
 
@@ -169,8 +155,7 @@ Threading
 
 **Bulk Thumbnail Creator** – Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails etc.
 
-Web
----------
+## Web
 
 **WYSIWG (What you see is what you get) Editor** – Create an editor online which allows people to move around elements, create tables, write text, set colors etc for web pages without having to know HTML. Think Dreamweaver or FrontPage but for online sites. If you need an example check out the DIC page used to create a post.
 
@@ -204,8 +189,7 @@ Web
 
 **CAPTCHA Maker** – Ever see those images with letters a numbers when you signup for a service and then asks you to enter what you see? It keeps web bots from automatically signing up and spamming. Try creating one yourself for online forms. If you use PHP, take a look at the image functions of GD.
 
-Files
----------
+## Files
 
 **Quiz Maker** – Make an application which takes various questions form a file, picked randomly, and puts together a quiz for students. Each quiz can be different and then reads a key to grade the quizzes.
 
@@ -239,8 +223,7 @@ Files
 
 **Versioning Manager** – Create your own versioning system for code files. Users are forced to check out items and lock items during reading and writing so that a group of programmers are not accidentally overwriting code files on one another.
 
-Databases
----------
+## Databases
 
 **SQL Query Analyzer** – A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
 
@@ -268,8 +251,7 @@ Databases
 
 **Web Board (Forum)** – Create a forum for you and your buddies to post, administer and share thoughts and ideas.
 
-Graphics and Multimedia
----------
+## Graphics and Multimedia
 
 **Slide Show** – Make an application that shows various pictures in a slide show format. For extra complexity try adding various effects like fade in/out, star wipe and window blinds transitions.
 
